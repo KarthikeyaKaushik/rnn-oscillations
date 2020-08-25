@@ -1,0 +1,2 @@
+data-vals-gaps refers to the activation data in BERT with gaps added ie., every word is padded with 4 blanks on the left,
+and sampling frequency is increased to 20 samples/sec. 

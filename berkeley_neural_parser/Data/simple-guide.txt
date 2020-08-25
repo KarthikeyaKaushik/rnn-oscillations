@@ -1,0 +1,1 @@
+data-vals contains activations. unit_power.npy contains activation series for every unit separately.
